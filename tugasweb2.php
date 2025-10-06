@@ -29,12 +29,14 @@ $wisata = json_decode($json_data, true);
         }
         h2 {
             background-color: greenyellow;
+            margin: left;
+            width: 200px;
         }
     </style>
 </head>
 <body>
-    <h2>Latihan (2.A.2): <br>
-        Hasil decode data JSON diatas tampilkan ke dalam bentuk HTML Tabel seperti berikut:
+    <h2>Tugas: <br>
+        Tabel Wisata Kota
     </h2>
     
     <table>
